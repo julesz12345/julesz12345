@@ -1,5 +1,4 @@
-## Hi there 👋
-LALALALALALALALALAL
+Hello and welcome to my portfolio where you will be able to see all of the different projects I have had the chance to work on. Each entry includes a brief description and a link to its source code. A medium article can also be found for some of the projects if you are interested in getting more in-depth insights on the work that I completed.
 <!--
 **julesz12345/julesz12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
