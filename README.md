@@ -1,6 +1,6 @@
 # <div align="center"> Hello👋 I'm Jules Zielinski! </div>
 
-Hello and welcome to my portfolio where you will be able to see all of the different projects I have had the chance to work on. Each entry includes a brief description and a link to its source code. A medium article can also be found for some of the projects if you are interested in getting more in-depth insights on the work that I completed.
+I am a senior data scientist with a maters degree from McGill University that is currently working at the Office of the Auditor General of Canada. Below are some recent Medium articles that I have written on various projects I had the opportunity to work on in the past:
 <!--
 **julesz12345/julesz12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
