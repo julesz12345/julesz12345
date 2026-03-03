@@ -1,9 +1,11 @@
 # <div align="center"> Hello👋 I'm Jules Zielinski! </div>
 
 I am a senior data scientist🤓 with a maters degree from McGill University📖 that is currently working at the Office of the Auditor General of Canada💼. Below are some recent Medium articles I’ve written about various projects I’ve had the opportunity to work on in the past:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- https://julesz12345.medium.com/classifying-human-movements-using-artificial-intelligence-73e2a118c60a 
+- https://julesz12345.medium.com/cryptocurrency-prediction-using-twitter-d2aea8bfbc9f
+- https://julesz12345.medium.com/the-social-media-effects-of-a-super-bowl-advertisement-a-general-motors-case-study-a2a101e19862
+
+
 <!--
 **julesz12345/julesz12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
