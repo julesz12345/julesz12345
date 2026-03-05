@@ -9,6 +9,8 @@ Below are some recent Medium articles I’ve written about various projects I’
 
 Currently, I am working with ...
 
+<a href="" target="_blank" title="Python.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
+
 You can also find me on ...
 
 <a href="https://www.linkedin.com/in/jules-zielinski/" title="princivershwal" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
