@@ -8,7 +8,10 @@ Below are some recent Medium articles I’ve written about various projects I’
 - [Analytics case study of a Super Bowl Advertisement](https://julesz12345.medium.com/the-social-media-effects-of-a-super-bowl-advertisement-a-general-motors-case-study-a2a101e19862)
 
 Currently, I am working with ...
-![[https://github.com/julesz12345/julesz12345/blob/main/Images/LinkedIn.png?raw=true]](https://github.com/julesz12345/julesz12345/blob/main/Images/LinkedIn.png?raw=true)(https://www.linkedin.com/in/jules-zielinski/)
+
+You can also find me on ...
+
+![[https://www.linkedin.com/in/jules-zielinski/]](https://github.com/julesz12345/julesz12345/blob/main/Images/LinkedIn.png?raw=true)(https://www.linkedin.com/in/jules-zielinski/)
 
 
 <!--
