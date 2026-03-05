@@ -11,7 +11,7 @@ Currently, I am working with ...
 
 You can also find me on ...
 
-![[https://www.linkedin.com/in/jules-zielinski/]](https://github.com/julesz12345/julesz12345/blob/main/Images/LinkedIn.png?raw=true)(https://www.linkedin.com/in/jules-zielinski/)
+<a href="https://www.linkedin.com/in/jules-zielinski/" title="princivershwal" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
 <!--
