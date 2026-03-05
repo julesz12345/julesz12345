@@ -11,7 +11,7 @@ Currently, I am working with ...
 
 <a href="https://www.vectorlogo.zone/logos/python/python-icon.svg" target="_blank" title="Python" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" target="_blank" title="SQL" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" target="_blank" title="Python.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="Power BI" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" target="_blank" title="Python.js" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="Power BI" width="30" height="30"/></a>&nbsp;&nbsp;
 
 You can also find me on ...
 
