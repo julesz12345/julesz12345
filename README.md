@@ -1,6 +1,6 @@
 # <div align="center"> Hello👋 I'm Jules Zielinski! </div>
 
-I am a senior data scientist🤓 with a maters degree from McGill University📖 that is currently working at the Office of the Auditor General of Canada💼.
+I am a senior data scientist🤓 with a masters degree from McGill University📖 that is currently working at the Office of the Auditor General of Canada💼.
 
 Below are some recent Medium articles I’ve written about various projects I’ve had the opportunity to work on in the past:
 - [Neural network to classify human movements](https://julesz12345.medium.com/classifying-human-movements-using-artificial-intelligence-73e2a118c60a) 
@@ -8,7 +8,7 @@ Below are some recent Medium articles I’ve written about various projects I’
 - [Analytics case study of a Super Bowl Advertisement](https://julesz12345.medium.com/the-social-media-effects-of-a-super-bowl-advertisement-a-general-motors-case-study-a2a101e19862)
 
 Currently, I am working with ...
-
+![[https://github.com/julesz12345/julesz12345/blob/main/Images/LinkedIn.png?raw=true]](https://github.com/julesz12345/julesz12345/blob/main/Images/LinkedIn.png?raw=true)(https://www.linkedin.com/in/jules-zielinski/)
 
 
 <!--
