@@ -14,14 +14,14 @@ Currently, I am working with ...
 <a href="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" target="_blank" title="SQL" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tableau-icon.svg" target="_blank" title="Tableau" rel="noreferrer"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tableau-icon.svg" alt="Tableau" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" target="_blank" title="Power BI" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="Power BI" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://upload.vectorlogo.zone/logos/microsoft_azure/images/e584dc34-9cda-4cd3-b318-b6fe4909e4f8.svg" target="_blank" title="Azure" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/microsoft_azure/images/e584dc34-9cda-4cd3-b318-b6fe4909e4f8.svg" alt="Azure" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" target="_blank" title="Google Cloud" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://upload.vectorlogo.zone/logos/microsoft_azure/images/e584dc34-9cda-4cd3-b318-b6fe4909e4f8.svg" target="_blank" title="MS Azure" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/microsoft_azure/images/e584dc34-9cda-4cd3-b318-b6fe4909e4f8.svg" alt="MS Azure" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" target="_blank" title="Google Cloud Platform" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" target="_blank" title="AWS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
 
 You can also find me on ...
 
-<a href="https://www.linkedin.com/in/jules-zielinski/" title="princivershwal" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="mailto:julzielin@gmail.com" target="_blank" title="vershwal.princi@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/jules-zielinski/" title="LinkedIn Jules" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="mailto:julzielin@gmail.com" target="_blank" title="julzielin@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
 
 <!--
