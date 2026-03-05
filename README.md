@@ -1,6 +1,6 @@
 # <div align="center"> Hello👋 I'm Jules Zielinski! </div>
 
-I am a senior data scientist🤓 with a maters degree from McGill University📖 that is currently working at the Office of the Auditor General of Canada💼.
+I am a senior data scientist🤓 with a masters degree from McGill University📖 that is currently working at the Office of the Auditor General of Canada💼.
 
 Below are some recent Medium articles I’ve written about various projects I’ve had the opportunity to work on in the past:
 - [Neural network to classify human movements](https://julesz12345.medium.com/classifying-human-movements-using-artificial-intelligence-73e2a118c60a) 
@@ -9,6 +9,10 @@ Below are some recent Medium articles I’ve written about various projects I’
 
 Currently, I am working with ...
 
+You can also find me on ...
+
+<a href="https://www.linkedin.com/in/jules-zielinski/" title="princivershwal" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="mailto:julzielin@gmail.com" target="_blank" title="vershwal.princi@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
 
 <!--
