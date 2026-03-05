@@ -7,7 +7,7 @@ Below are some recent Medium articles I’ve written about various projects I’
 - [Predicting cryptocurrency value using Twitter](https://julesz12345.medium.com/cryptocurrency-prediction-using-twitter-d2aea8bfbc9f)
 - [Analytics case study of a Super Bowl Advertisement](https://julesz12345.medium.com/the-social-media-effects-of-a-super-bowl-advertisement-a-general-motors-case-study-a2a101e19862)
 
-Currently, I am working with ...
+Currently, I can work with ...
 
 <a href="https://www.vectorlogo.zone/logos/python/python-icon.svg" target="_blank" title="Python" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" target="_blank" title="R" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="30" height="30"/></a>&nbsp;&nbsp;
