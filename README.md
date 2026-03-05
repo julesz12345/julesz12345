@@ -7,6 +7,9 @@ Below are some recent Medium articles I’ve written about various projects I’
 - [Predicting cryptocurrency value using Twitter](https://julesz12345.medium.com/cryptocurrency-prediction-using-twitter-d2aea8bfbc9f)
 - [Analytics case study of a Super Bowl Advertisement](https://julesz12345.medium.com/the-social-media-effects-of-a-super-bowl-advertisement-a-general-motors-case-study-a2a101e19862)
 
+Currently, I am working with ...
+
+
 
 <!--
 **julesz12345/julesz12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
